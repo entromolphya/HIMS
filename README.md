@@ -1,1 +1,1 @@
-# ubar-clone
+# Home Inventory Management System
