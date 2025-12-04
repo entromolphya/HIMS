@@ -1,1 +1,1 @@
-# HIMS
+# Inventory Managemnet System
